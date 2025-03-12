@@ -13,5 +13,3 @@ Stay updated & explore our projects on our website. Everything we do is organize
 - **Creative Showcases** 🎭  
 
 🔗 **Visit us online:** [ARTECS WEBSITE](https://www.artecs.org/)  
-
-<img src="https://i.giphy.com/26uf9smjCawERdCmI.webp" width="30%">
