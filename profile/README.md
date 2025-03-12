@@ -3,7 +3,7 @@
 ## 🎨 About ARTECS  
 Welcome to **ARTECS**, where we blend **art** and **computer science** to create innovative and inspiring projects.
 
-<img src="https://i.giphy.com/26uf9smjCawERdCmI.webp" width="100%">
+<img src="https://i.giphy.com/26uf9smjCawERdCmI.webp" width="30%">
 
 ## 🚀 Get Involved  
 Stay updated & explore our projects on our website. Everything we do is organized there, from:  
