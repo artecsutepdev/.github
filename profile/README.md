@@ -1,8 +1,9 @@
-# Hello, World! 👋  
+# Hello, World! 👋
+ 
+Welcome to **ARTECS**, where we blend **art** and **computer science**.
 
-## 🎨 About ARTECS  
-Welcome to **ARTECS**, where we blend **art** and **computer science** to create innovative and inspiring projects.
 --------------------------------------------------------------------------------------------------------------------
+
 ## 🚀 Get Involved  
 Stay updated & explore our projects on our website. Everything we do is organized there, from:  
 - **Meetings & Events** 📅  
