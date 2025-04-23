@@ -1,6 +1,6 @@
 ## Welcome to **ARTECS**.
 
-[![MasterHead](https://i.pinimg.com/originals/b5/b8/2c/b5b82ca931a478f50a94f06ef2f9d211.jpg)]
+![MasterHead](https://i.pinimg.com/originals/b5/b8/2c/b5b82ca931a478f50a94f06ef2f9d211.jpg)
 
 ## About
 ARTECS is a student organization at **The University of Texas at El Paso (UTEP)** dedicated to **exploring and advancing the integration of art and computer science**.
